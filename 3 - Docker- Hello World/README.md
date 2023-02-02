@@ -17,5 +17,5 @@
   - Below you can see - **hello-world** image was **unable to find** and so  **pulled it locally**.
   - Secondly the docker now **runs the pulled image of hello-world** image and displays the output.
   
-![docker-hello-world](https://github.com/BaliDataMan/Docker-Tutorial/blob/main/3%20-%20Docker-%20Hello%20World/images/docker-hello-world.png)
+  ![docker-hello-world](https://github.com/BaliDataMan/Docker-Tutorial/blob/main/3%20-%20Docker-%20Hello%20World/images/docker-hello-world.png)
 
