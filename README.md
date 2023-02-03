@@ -6,10 +6,8 @@
 
  I have enjoyed every little bit of the learning and prepared notes, hope you enjoy notes too.
 
- - Docker Concepts
-
  - Docker Basic Commands
 
  - Docker- Hello World
 
-ANyone interested can fork and continue building Notes..
+NOTE: Anyone interested can fork and continue building Notes..
